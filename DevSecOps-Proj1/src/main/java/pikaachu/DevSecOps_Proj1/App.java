@@ -7,6 +7,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hemanth");
-        System.out.println("Devopler1 Push thanks");
+        System.out.println("Dev1 DevSecOps");
     }
 }
